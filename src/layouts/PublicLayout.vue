@@ -1,0 +1,23 @@
+<template>
+  <q-layout view="hHh lpR fFf">
+    <q-page-container>
+      <router-view />
+    </q-page-container>
+  </q-layout>
+</template>
+
+<script>
+export default {
+  data () {
+    return {}
+  },
+  computed: {
+  },
+  methods: {
+  }
+}
+</script>
+
+<style lang="sass">
+
+</style>
